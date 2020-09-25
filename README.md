@@ -23,7 +23,7 @@ The Student Coin is the first cryptocurrency related to the net of universities.
 |   | TOKEN INFO  |
 | ------------ | ------------ |
 |  Ticker Symbol | [STC] |
-|  Launch Date| 02.12.20194 |
+|  Launch Date| 02.12.2019 |
 |  Maximum number of coins | 10000000000 |
 |  Number of decimals | 2 |
 |  Burnable | yes |
