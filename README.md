@@ -32,7 +32,7 @@ The Student Coin is the first cryptocurrency related to the net of universities.
 <br>
 
 ### STC PUBLIC ETH WALLETS
-|NAME|ADRESS|#%|
+|NAME|ADDRESS|#%|
 |--|--|--|
 |Backup Wallet|0x9edad8fa4f77776d4d4dd29fb1bfa2efe4f755d8|52,00%|
 |Development Wallet|0x6be757c93a7d15fe48b12045e04408aba3eb11f7|24,00%|
@@ -44,7 +44,7 @@ https://etherscan.io/token/0xb8B7791b1A445FB1e202683a0a329504772e0E52#balances
 
 
 ### STC PUBLIC WAVES WALLETS
-|NAME|ADRESS|#%|
+|NAME|ADDRESS|#%|
 |--|--|--|
 |Backup Wallet|3P6uLVYfYRHvVBZu7gd5XJ7gZzjgaZ7oaTD|52,00%|
 |Development Wallet|3PKR3DizhWBJSnneaTfnyXHpyrMnwLsT1So|24,00%|
